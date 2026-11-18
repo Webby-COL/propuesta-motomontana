@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Moto sin foto">
+  <rect width="800" height="600" fill="#F8FAF1"/>
+  <rect y="410" width="800" height="190" fill="#E8EEDA"/>
+  <rect y="592" width="800" height="8" fill="#A9DB1B"/>
+  <ellipse cx="400" cy="478" rx="270" ry="14" fill="#C9CFBA"/>
+  <g fill="none" stroke="#82876F" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="225" cy="400" r="75"/>
+    <circle cx="585" cy="400" r="75"/>
+    <path d="M225 400l110-60h120l45-90M455 340l130 60M335 340l-30-70h-80M500 250h40"/>
+  </g>
+  <text x="400" y="555" text-anchor="middle" font-family="Noto Sans, Arial, sans-serif" font-size="26" fill="#5C604F">Foto pronto</text>
+</svg>
